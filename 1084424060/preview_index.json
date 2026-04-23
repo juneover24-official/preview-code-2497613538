@@ -1,19 +1,19 @@
 {
   "qq_number": "2497613538",
   "group_number": "1084424060",
-  "updated_at": "2026-04-22T16:19:30.602274",
+  "updated_at": "2026-04-23T15:52:38.625758",
   "skins": [
-    {
-      "name": "甜妹贴纸底包",
-      "file": "小缘ෆ地缚少年花子君彩底.bds",
-      "thumb": "小缘ෆ地缚少年花子君彩底.bds_py_26_light_thumb.png",
-      "full": "小缘ෆ地缚少年花子君彩底.bds_py_26_light.png"
-    },
     {
       "name": "甜妹贴纸底包",
       "file": "小缘ෆ地缚少年花子君融合.bdi",
       "thumb": "小缘ෆ地缚少年花子君融合.bdi_py_26_light_thumb.png",
       "full": "小缘ෆ地缚少年花子君融合.bdi_py_26_light.png"
+    },
+    {
+      "name": "甜妹贴纸底包",
+      "file": "小缘ෆ地缚少年花子君彩底.bds",
+      "thumb": "小缘ෆ地缚少年花子君彩底.bds_py_26_light_thumb.png",
+      "full": "小缘ෆ地缚少年花子君彩底.bds_py_26_light.png"
     }
   ]
 }

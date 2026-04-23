@@ -1,19 +1,19 @@
 {
   "qq_number": "2497613538",
   "group_number": "741170949",
-  "updated_at": "2026-04-22T16:19:31.197485",
+  "updated_at": "2026-04-23T15:52:38.556194",
   "skins": [
-    {
-      "name": "汉堡の萌趣糖果萌娃",
-      "file": "汉堡の萌趣糖果萌娃彩底萌脆.bds",
-      "thumb": "汉堡の萌趣糖果萌娃彩底萌脆.bds_py_26_light_thumb.png",
-      "full": "汉堡の萌趣糖果萌娃彩底萌脆.bds_py_26_light.png"
-    },
     {
       "name": "甜妹贴纸底包",
       "file": "汉堡の萌趣糖果萌娃萌脆融.bdi",
       "thumb": "汉堡の萌趣糖果萌娃萌脆融.bdi_py_26_light_thumb.png",
       "full": "汉堡の萌趣糖果萌娃萌脆融.bdi_py_26_light.png"
+    },
+    {
+      "name": "汉堡の萌趣糖果萌娃",
+      "file": "汉堡の萌趣糖果萌娃彩底萌脆.bds",
+      "thumb": "汉堡の萌趣糖果萌娃彩底萌脆.bds_py_26_light_thumb.png",
+      "full": "汉堡の萌趣糖果萌娃彩底萌脆.bds_py_26_light.png"
     }
   ]
 }

@@ -1,19 +1,19 @@
 {
   "qq_number": "2497613538",
   "group_number": "340993711",
-  "updated_at": "2026-04-22T16:19:30.511468",
+  "updated_at": "2026-04-23T15:52:38.587953",
   "skins": [
-    {
-      "name": "甜妹贴纸底包",
-      "file": "小缘ෆ狐妖小红娘彩底.bds",
-      "thumb": "小缘ෆ狐妖小红娘彩底.bds_py_26_light_thumb.png",
-      "full": "小缘ෆ狐妖小红娘彩底.bds_py_26_light.png"
-    },
     {
       "name": "甜妹贴纸底包",
       "file": "小缘ෆ狐妖小红娘融合.bdi",
       "thumb": "小缘ෆ狐妖小红娘融合.bdi_py_26_light_thumb.png",
       "full": "小缘ෆ狐妖小红娘融合.bdi_py_26_light.png"
+    },
+    {
+      "name": "甜妹贴纸底包",
+      "file": "小缘ෆ狐妖小红娘彩底.bds",
+      "thumb": "小缘ෆ狐妖小红娘彩底.bds_py_26_light_thumb.png",
+      "full": "小缘ෆ狐妖小红娘彩底.bds_py_26_light.png"
     }
   ]
 }
